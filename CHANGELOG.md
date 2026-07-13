@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [1.4.4] - 2026-07-09
+### Fixed
+- Update `package.json` to fixed exports error
+
 ## [1.4.3] - 2022-09-06
 - `logLevel` would not modify the original logger, and would make a copy instead.
 
